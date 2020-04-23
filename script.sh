@@ -5,5 +5,5 @@ then
 	echo "http is already running"
 else
 	service httpd restart
-	echo "httpd service start"
+	echo "httpd service restart"
 fi
