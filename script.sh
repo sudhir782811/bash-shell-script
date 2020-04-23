@@ -7,4 +7,4 @@ else
 	service httpd restart
 	echo "httpd service restarted"
 fi
-mkdir data /var/
+mkdir /var/data2
