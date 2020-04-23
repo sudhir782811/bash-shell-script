@@ -8,3 +8,4 @@ else
 	echo "httpd service restarted"
 fi
 mkdir /var/data2
+mkdir /var/data3
