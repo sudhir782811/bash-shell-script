@@ -4,6 +4,6 @@ if [ $HTTPD -eq 1 ]
 then
 	echo "http is already running"
 else
-	service httpd start
+	service httpd restart
 	echo "httpd service restarted"
 fi
